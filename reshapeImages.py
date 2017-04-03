@@ -6,7 +6,7 @@ import cv2
 folders = ['\sample002', '\sample003', '\sample004', '\sample005', '\sample006',
         '\sample007', '\sample008', '\sample009', '\sample010']
 
-fnt_dir = "F:\Browser Downloads\EnglishFnt\English\Fnt"
+#fnt_dir = "F:\Browser Downloads\EnglishFnt\English\Fnt"
 
 DESIRED_IMAGE_WIDTH = 32
 DESIRED_IMAGE_HEIGHT = 32
