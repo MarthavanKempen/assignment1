@@ -12,8 +12,8 @@ import creatingDatasets
 import pylab as pl
 
 import	os
-os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
-os.environ["CUDA_VISIBLE_DEVICES"]="0"
+#os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
+#os.environ["CUDA_VISIBLE_DEVICES"]="0"
 
 font_dir = "F:\Browser Downloads\EnglishFnt\English\Fnt"
 (X_train, y_train), (X_test, y_test) = creatingDatasets.load74KData(font_dir)
