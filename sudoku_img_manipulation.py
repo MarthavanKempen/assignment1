@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 #matplotlib inline
-KMP_AFFINITY = disabled
 import pylab as pl
 import numpy as np
 import math
